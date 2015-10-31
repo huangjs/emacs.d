@@ -1,0 +1,5 @@
+#!/usr/bin/make -f
+emacs=/usr/bin/emacs
+fast-emacs: /usr/share/emacs/site-lisp/site-start.el /usr/bin/emacs ~/.emacs
+        $(emacs) --batch --execute "(dump-emacs \"fast-emacs\" \"$(emacs)\")"
+

@@ -1,0 +1,69 @@
+;; $Id: README,v 1.5 2003/02/21 04:33:24 fredgc Exp $
+
+Emacs Notebook mode, version 2.0.
+by Fred Gylys-Colwell  (Copyright 1997, 2002).  <fredgc@users.sourceforge.net>
+These files are under the GNU Public License (GPL).  See the file COPYING.
+
+Notebook mode sets up a sub process that has well defined input and output
+responses.  Each notebook has a collection of cells, consisting of a prompt, an
+input region and an output region.  You tell Emacs to send a cell to the
+process (using C-Enter or M-Enter) and when the process responds, it will paste
+the output in to the output region.  You can then go back and edit other cells
+and re-enter them.  Between the cells is regular text, which you can do with as
+you wish. 
+
+This idea of a notebook with cells is popular with programs such as Matlab,
+Maple or Mathematica.  I use it with matlab, and then pipe the notebook through
+latex.  
+
+
+To create a new cell, type ^C^N.  To enter a cell use M-Enter or
+C-Enter. Use M-Tab to move to the next cell. Use ^C^B to enter all of
+the buffer.  In matlab mode, use ^C^F to tex the buffer and ^C^V to
+run xdvi. 
+
+
+I've added the following to my auto-mode-alist:
+ ("\\.mu$" . mupad-notebook-mode)
+ ("\\.matlab$" . matlab-notebook-mode)
+ ("\\.M$" . matlab-notebook-mode)
+ ("\\.octave$" . octave-notebook-mode)
+ ("\\.shell$" . notebook-mode)
+
+There are some sample files in this directory.
+
+-----------
+New in Version 2.0:
+
+This version of notebook mode has a several internal changes.  The
+most visible is that coloring is now done by font-lock mode.
+
+Another change is that the notebook modes now inherit from one of the
+text modes: html-mode, text-mode, or latex-mode.  Notebook mode tries
+to guess which type is appropriate by the file type.
+
+Some of the code in this version requires 'replace-regexp-in-string' which is
+not in Emacs 20.  I have found that if you just copy the definition of
+'replace-regexp-in-string' from the file subr.el from a recent version of
+emacs, it will work in the older version.  Your milage may vary.
+
+-----------
+Note:  There is some interaction problem with flyspell-mode.  Both try to
+define M-RET and M-TAB.
+
+I put this in my .emacs:
+
+(setq flyspell-mouse-map
+      (let ((map (make-sparse-keymap)))
+	(define-key map [(S-mouse-2)] #'flyspell-correct-word/mouse-keymap)
+	(define-key map [H-tab] #'flyspell-auto-correct-word)
+	(define-key map [C-S-iso-lefttab] #'flyspell-auto-correct-word)
+	map))
+	
+(define-key flyspell-mode-map "\M-\t" nil)
+(define-key flyspell-mode-map "\M-\r" nil)
+(define-key flyspell-mode-map [(S-mouse-2)] #'flyspell-correct-word/mouse-keymap)
+(define-key flyspell-mode-map [?\H-tab] #'flyspell-auto-correct-word)
+(define-key flyspell-mode-map  [C-S-iso-lefttab] #'flyspell-auto-correct-word)
+
+

@@ -1,0 +1,68 @@
+
+*/* 2007-04-30 13:12 huangjianshi: Writings
+5 kinds of iterator in CL: clos, generator, functional iterator
+protocol, iterate driver, common idioms (dotree, maptree, reduce-tree, foreach, with-*)
+
+
+*/* 2007-04-10 03:33 huangjianshi: projects
+cl-lazy-list
+VPN server setup
+
+*/* 2007-04-10 03:33 huangjianshi: common lisp programming
+xml/json/amf3 parser and generator
+project euler -- number library
+pattern matching -- interpreter(like in prolog) and compiler
+fasl auto re-compilation
+cvs/svn/darcs checker and auto update
+type conversion lib
+database lib
+gcase
+template system for common lisp
+string scanner
+tree walker
+destructive test
+sharing-data test
+boundary test -- correctness
+error-handling behavior 
+
+*/* 2007-04-11 11:12 huangjianshi: sbcl todo:
+open code: remove-if-not, reduce
+implement green threads?(sbcl operates directly on registers so be
+careful of GC issue)
+LLVM backend?
+
+*/* 2007-04-21 21:53 huangjianshi: learning
+plisp, y-tools, screamer, series, qi, simple-match, with, meta, binary-format, debian-code!!, units, save-object, lisa, GBBopen
+ 
+*/* 2007-04-11 11:13 huangjianshi: snippet
+modify compose to combine arg-lists of functions.
+e.g. given (f x y), (g x y)
+(f . g) = \x y z -> (f (g x y) z)
+
+*/* 2007-05-20 04:42 huangjianshi: CLTL2 notes -- unread
+eval-when
+define-modify-macro, defsetf, define-setf-method, get-setf-expansion
+chapter 11 packages
+
+*/* 2007-04-11 11:00 huangjianshi: SICP exercises
+
+chapter 1
+ex. 1.45 and 1.46 not done.
+
+chapter 2
+ex. 2.3 not done.
+2.6 needs revision.
+2.16 not done.
+2.29 not done.
+2.64 2.65 not done.
+
+chapter 3
+ex. 3.23 needs revision.
+table
+3.51 and 3.52 ......
+3.57
+3.67
+3.5.4 Streams and Delayed Evaluation
+//
+--- End
+

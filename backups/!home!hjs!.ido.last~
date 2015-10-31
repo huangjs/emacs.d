@@ -1,0 +1,289 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/hjs/workspace/maptia/heroku/" . "src/")
+ ("/home/hjs/workspace/maptia/heroku/src/" . "demo/")
+ ("/home/hjs/.emacs.d/elpa/" . "align-cljlet-0.1/")
+ ("/home/hjs/cl/installed/" . "slime-20120407-cvs/")
+ ("/home/hjs/" . "info/")
+ ("/home/hjs/workspace/cl-gui/junk/" . "test/")
+ ("/home/hjs/src/" . "cl-op/")
+ ("/home/hjs/programming/" . "lisp/")
+ ("/home/hjs/programming/lisp/" . "old/")
+ ("/home/hjs/docs/" . "lisp/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/tmp/"
+ "/home/hjs/.emacs.d/cedet/"
+ "/home/hjs/"
+ "/home/hjs/.emacs.d/elpa/paredit-20110508/"
+ "/home/hjs/.emacs.d/"
+ "/home/hjs/.emacs.d/elpa/magit-simple-keys-1.0.0/"
+ "/home/hjs/.emacs.d/auto-complete/"
+ "/home/hjs/org/lisp/"
+ "/home/hjs/workspace/maptia/heroku/"
+ "/home/hjs/workspace/maptia/heroku/src/wordpress/"
+ "/home/hjs/.emacs.d/elpa/slime-ritz-0.2.1/"
+ "/home/hjs/src/ritz/"
+ "/home/hjs/src/ritz/slime/"
+ "/home/hjs/cl/installed/slime-20120407-cvs/contrib/"
+ "/home/hjs/workspace/maptia/heroku/target/"
+ "/home/hjs/.lein/"
+ "/home/hjs/.m2/repository/swank-clojure/swank-clojure/1.4.0/"
+ "/home/hjs/cl/quicklisp/dists/quicklisp/software/slime-20120407-cvs/contrib/"
+ "/home/hjs/cl/quicklisp/dists/quicklisp/installed/systems/"
+ "/home/hjs/script/"
+ "/home/hjs/org/notes/"
+ "/home/hjs/Downloads/"
+ "/home/hjs/org/projects/maptia/"
+ "/home/hjs/org/programming/"
+ "/home/hjs/src/sbcl/src/code/"
+ "/home/hjs/src/clojure-contrib/"
+ "/home/hjs/workspace/maptia/examples/geonames/"
+ "/home/hjs/workspace/maptia/heroku/lib/"
+ "/home/hjs/workspace/heroku/noir-mongo-heroku/src/noir_mongo_heroku/views/"
+ "/home/hjs/workspace/heroku/noir-mongo-heroku/src/noir_mongo_heroku/"
+ "/home/hjs/workspace/heroku/noir-mongo-heroku/"
+ "/home/hjs/workspace/maptia/heroku/src/demo/"
+ "/home/hjs/workspace/maptia/heroku/src/demo/views/"
+ "/home/hjs/.ssh/"
+ "/home/hjs/org/gtd/"
+ "/home/hjs/workspace/maptia/one/"
+ "/home/hjs/workspace/maptia/prototype/src/cljs/"
+ "/home/hjs/workspace/maptia/prototype/"
+ "/home/hjs/workspace/maptia/cljs-template/"
+ "/home/hjs/org/projects/"
+ "/home/hjs/workspace/maptia/prototype/src/clj/"
+ "/home/hjs/workspace/maptia/"
+ "/home/hjs/workspace/maptia/one/src/app/clj/one/sample/"
+ "/home/hjs/workspace/maptia/cljs-template/src/leiningen/new/cljs_template/"
+ "/tmp/test/"
+ "/home/hjs/cl/quicklisp/"
+ "/home/hjs/.ssh/keys/"
+ "/home/hjs/.emacs.d/elpa/"
+ "/home/hjs/.emacs.d/color-theme/themes/"
+ "/home/hjs/src/clojure/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "t.c"
+ "t.lisp"
+ "INSTALL"
+ "Makefile"
+ "t.py"
+ "t.rb"
+ "t.hs"
+ ".emacs"
+ "paredit.el"
+ "paren-face.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/tmp/" (20380 48055) "emacs1000/" "t.py" "keyring-LluuU6/" ".X0-lock" "unity_support_test.0" "py28355Jqo" "pulse-PKdhtXMmr18n/" "8B4218DB4E0DDA88A215D66627663137E242C733.18.0.1025.151_service_ipc" "ssh-znmPYhGJ1804/" "slime-fasls/" ".org.chromium.Chromium.1KM3Su/" ".esd-1000/" "pulse-2L9K88eMlGn7/" "babel-30900Xje/" ".X11-unix/" "cscope.out" ".g-cookie-jar30995MaY" "babel-30995Zke/" "py30995ADx" ".org.chromium.Chromium.0PsVHG/" "orbit-hjs/" "../" "acroread_1000_1000/" "t" ".g-cookie-jar28355iLW" ".org.chromium.Chromium.IugcEM/" ".ICE-unix/" "pulse-dzVt7OuuCIlM/" ".g-cookie-jar30900KZY" "CRX_75DAF8CB7768/" "./" ".org.chromium.Chromium.UtmdKT/" "py30995muk" "ssh-MZDfUHsS2483/" "t.c" "py29228-1i" "at-spi2/" "py283558fi" ".esd-104/" "py29228LAp" "t.rb" ".g-cookie-jar29228khW" ".g-cookie-jar11064rCO" ".org.chromium.Chromium.XLvw8l/" "t.lisp" "py30995yMA" "py30995z4q" "tmux-1000/")
+
+ ("/home/hjs/.emacs.d/" (20380 48202) "mew/" "g-client/" "smart-compile.elc" "wrap-region/" "lush.el" "two-mode-mode.el" "bubble-buffer.elc" "bigloo/" "url/" "Saaxy/" "hl-tags.el" "highlight.el" "gforth.el" "psvn.el" "mwe-log-commands.elc" "edit-server.elc" "hl-tags.elc" "webjump-plus.elc" "manoj-colors.elc" "yic-buffer.el" "thingatpt+.elc" "auto-complete-clang/" "gauche-mode/" "highlight.elc" ".emacs" "cedet/" "smart-compile.el" "unicode-helper-mode.elc" "unicode-helper-mode.el" "auto-complete-extension.el" "wtf.elc" "bubble-buffer.el" ".eshell/" "package.elc" "package.el" "kill-summary.el" "region-list-edit.el" "edit-server.el" "maxima/" "imenu+.elc" "mwe-log-commands.el" "yic-buffer.elc" "psvn.elc" "ebib/" "mwe-defclass-formatter.elc" "cldoc.el" "thingatpt+.el" "hide-lines.el" "imaxima/" "emacs-tiny-tools/" "qi-mode.elc" "c-toggle-dot-pointer.el" "gambit.el" "cl-lookup/" "find-recursive.elc" "lush.elc" "auto-save-list/" "find-recursive.el" "hide-lines.elc" ".hg/" "pretty-symbols.elc" "mwe-defclass-formatter.el" "ac-dict/" "git-emacs/" ".todo-do" "games/" "kill-summary.elc" "math.elc" "linkd.elc" "eli/" "pic/" "bash-completion/" "elpa/" "backups/" "ipython.el" "emacs-ee-0.0.2/" "highlight-tail.el" ".session" "gambit.elc" "color-theme-zenburn.el" "linkd-icons/" "sams-lib.el" "geiser/" "imenu+.el" "mdfind.elc" "llvm/" "paren-face.elc" "color-theme-tango.elc" "emacs-w3m/" "ac-comphist.dat" "iedit.el" "quotes.elc" "cldoc.elc" "two-mode-mode.elc" "history" "nxhtml/" "clean-mode/" "linkd.el" "notebook-2.0/" "wtf.el" "header2.el" "ri-emacs.rb" "ri-ruby.el" "pbook.elc" "acldoc.elc" "pretty-symbols.el" "math.el" "POST-INSTALL" "mdfind.el" "mark-multiple/" "ipython.elc" "qi-mode.el" "color-theme-tango.el" "compile-all" "quotes.el" "reftex-4.33/" "c-toggle-dot-pointer.elc" "acldoc.el" "region-list-edit.elc" ".hgignore" "iedit.elc" ".todo-top" "lsdb/" "manoj-colors.el" "zjl-hl.el" "pbook.el" "parse.el" "mythryl-mode/" ".smex-items" "ri-ruby.elc" "sams-lib.elc" "bin/" "paren-face.el" "highlight-tail.elc" "webjump-plus.el" "../" "./")
+
+ ("/home/hjs/.emacs.d/cedet/" (20288 16190) "testdist.sh" "cedet-update-version.el" ".ede-ignore" "USING_CEDET_FROM_CVS" "INSTALL" ".cvsignore" "srecode/" "cedet-build.el" "CVS/" "contrib/" "Makefile.wwwinfo" "cedet-ediff.el" "www/" "common/" "quickpeek/" "speedbar/" "../" "testprojects/" "tests/" "cedet-update-changelog.el" "./" "PRERELEASE_CHECKLIST" "semantic/" "gettodos.sh" "ede/" "eieio/" "cogre/" "Makefile")
+
+ ("/home/hjs/.emacs.d/ac-dict/" (20380 40340) "tuareg-mode" "ruby-mode" "erlang-mode" "css-mode" "php-mode" "lua-mode" "c-mode" "coq-mode" "caml-mode" "../" "javascript-mode" "ada-mode" "python-mode" "clojure-mode" "./" "c++-mode" "tcl-mode" "ts-mode" "sh-mode" "scheme-mode" "java-mode" "clojurescript-mode")
+
+ ("/home/hjs/" (20380 46163) ".gtk-bookmarks" "Maptia/" ".wxMaxima" "Music/" ".jline-reply.history" ".geiser_history.racket" ".vnc/" ".anthy/" "src/" "Snapshots/" ".Skype/" ".emacs.desktop.lock" ".matplotlib/" ".pulse/" ".gambc_history" ".sudo_as_admin_successful" ".Xauthority" "prism/" "mozart/" ".bash_logout" ".hgrc" ".Rinit" ".dia/" ".emacs" ".ido.last" ".launchpadlib/" ".scala_history" ".dropbox-dist/" ".Xdefaults" "Dropbox/" "info/" ".swank.lisp" ".eshell/" ".qws/" "eclipse/" ".ICEauthority" "Desktop/" ".dropbox/" "BProlog/" ".mozilla/" ".stardict/" ".cabal/" ".gstreamer-0.10/" ".profile" ".fonts/" ".bash_history" ".freerdp/" ".yjp/" ".remmina/" ".wireshark/" ".libreoffice/" ".ccl-init.lisp" ".eclrc" ".gitk" ".dbus/" ".w3m/" ".sbclrc" "clbuild/" ".dbshell" ".goutputstream-99LKDW" ".dropbox-dist-new/" "cl/" ".fontconfig/" ".gnome2/" "K/" ".pki/" ".mission-control/" ".Xmodmap" "../" ".gvfs/" ".emacs.d/" ".compiz-1/" ".netrc" "R/" ".xinput.d/" ".darcs/" "Aptana/" ".slime/" ".adobe/" ".mldonkey/" ".emacs.desktop" ".ghc/" ".ivy2/" ".gnupg/" ".sbt/" ".gnome2_private/" ".fonts.conf" ".Mathematica/" ".icedtea/" ".Rhistory" ".zsh_history" ".abclrc" "./" ".aptitude/" "metaocaml/" ".config/" ".esd_auth" "org/" ".subversion/" ".macromedia/" "pvs/" ".zshrc" "Shen/" ".cmucl-init.lisp" ".local/" ".pip/" ".zcompdump" ".eclipse/" ".gconf/" ".slime-history.eld" ".pulse-cookie" ".xsession-errors" ".ssh/" "Documents/" ".backup/" ".clisprc" "programming/" ".lispworks" ".xchat2/" ".aliedit/" "q/" ".dmrc" ".lesshst" ".gem/" ".clinit.cl" ".swt/" ".recentf" ".zsh-update" ".goutputstream-LFEDDW" "script/" "Downloads/" ".oh-my-zsh/" "Videos/" "workspace/" ".gphoto/" ".bashrc" ".gksu.lock" ".thumbnails/" "tmp/" ".tmux.conf" ".gitconfig" ".Fontmatrix/" ".semanticdb/" ".xsession-errors.old" "Pictures/" ".m2/" ".java_history" ".lein/" ".purple/" ".java/" "Public/" "bin/" ".cache/")
+
+ ("/home/hjs/.emacs.d/elpa/paredit-20110508/" (20380 37255) "paredit-autoloads.el" "../" "./" "paredit.el" "paredit-pkg.el" "paredit-pkg.elc" "paredit.elc")
+
+ ("/home/hjs/.emacs.d/elpa/" (20380 36577) "cperl-mode-20110624/" "flymake-coffee-20120319/" "lua-mode-20120409/" "python-20120422/" "org-magit-0.1.2/" "load-theme-buffer-local-20120416/" "prelude-haskell-20120417/" "nhexl-mode-0.1/" "elisp-slime-nav-20111111/" "prelude-ruby-20120421/" "browse-kill-ring-20100315/" "xml-rpc-1.6.8/" "adaptive-wrap-0.1/" "package-spec-20120403/" "archives/" "popup-20120331/" "smart-tab-20120409/" "yasnippet-20120422/" "org-cua-dwim-0.5/" "prelude-perl-20120417/" "writegood-mode-20120201/" "ace-jump-mode-20120414/" "redshank-20120304/" "iy-go-to-char-20120416/" "auto-complete-20120327/" "color-theme-sanityinc-solarized-20120426/" "rspec-mode-20120320/" "starter-kit-js-20110930/" "scss-mode-20110831/" "csv-mode-20091203/" "json-1.2/" "buffer-move-20110305/" "mmm-mode-20110623/" "vimgolf-20120228/" "haml-mode-20101019/" "auctex-11.86/" "mediawiki-20120118/" "pkgbuild-mode-20120214/" "prelude-scheme-20120419/" "js2-mode-20120419/" "multi-term-20110326/" "prelude-programming-20120417/" "markdown-mode+-20120219/" "todochiku-20120202/" "php-mode-20120424/" "org-outlook-0.1/" "prelude-lisp-20120417/" "rvm-20120329/" "inf-ruby-20120403/" "delim-kill-20100517/" "volatile-highlights-20120215/" "ioccur-2.4/" "undo-tree-20120421/" "ess-20120418/" "rainbow-delimiters-20111125/" "starter-kit-eshell-20120316/" "sisu-mode-3.0.3/" "find-file-in-project-20110903/" "prelude-css-20120417/" "jabber-mode-20120415/" "js3-mode-20120329/" "icicles-20120424/" "org-toodledo-20120314/" "haskell-mode-20120420/" "ruby-mode-20110630/" "smex-20120301/" "starter-kit-lisp-20120316/" "prelude-xml-20120417/" "ac-slime-20111011/" "ruby-compilation-20111018/" "org-mime-20120112/" "gnuplot-20120420/" "inflections-20100806/" "org2blog-0.5/" "starter-kit-ruby-20120128/" "flymake-css-20120319/" "expand-region-20120414/" "flymake-php-20120319/" "lmc-1.0/" "http-twiddle-1.0/" "uni-confusables-0.1/" "ack-and-a-half-20120216/" "ansi-20110112/" "ruby-tools-20120424/" "latex-pretty-symbols-20111011/" "flymake-sass-20120319/" "prelude-common-lisp-20120417/" "nav-20110220/" "org-email-0.6/" "git-blame-20110509/" "f90-interface-browser-1.0/" "google-maps-20111110/" "oauth2-0.3/" "melpa-20120202/" "starter-kit-perl-20120128/" "coffee-mode-20120308/" "crontab-mode-1.2/" "memory-usage-0.1/" "color-theme-buffer-local-20120416/" "groovy-mode-20120331/" "ibuffer-vc-20111221/" "deft-20120307/" "ediprolog-1.0/" "yari-20110417/" "projectile-20120426/" "paredit-20110508/" "twittering-mode-20120401/" "jump-20120130/" "flymake-cursor-20120307/" "starter-kit-20120316/" "ascope-20120229/" "ruby-end-20120403/" "less-css-mode-20111128/" "slime-20120423/" "go-mode-11071/" "prelude-emacs-lisp-20120417/" "minimap-20110427/" "citrus-mode-20120403/" "wrap-region-20120403/" "flymake-haml-20120319/" "prelude-latex-20120419/" "helm-projectile-20120412/" "color-theme-solarized-20120301/" "org-20120426/" "google-c-style-20091009/" "hl-sentence-20110815/" "markdown-mode-20120225/" "tidy-20111222/" "yaml-mode-20120227/" "pyregexp-20120428/" "ruby-block-20111101/" "surround-20120327/" "color-theme-sanityinc-tomorrow-20120426/" "ruby-interpolation-20120326/" "bm-20120131/" "prelude-scss-20120419/" "evil-20120426/" "prelude-js-20120417/" "findr-20120130/" "emacs-setup-20120423/" "magit-20120421/" "org-table-comment-0.2/" "rinari-20120408/" "jump-char-0.1/" "darcsum-20120115/" "company-0.5/" "tabulated-list-20120406/" "prelude-mediawiki-20120417/" "magithub-20120209/" "bookmark+-20120428/" "helm-20120424/" "flymake-ruby-20120319/" "hippie-expand-slime-20111115/" "prelude-coffee-20120417/" "enclose-20120403/" "mysql2sqlite-20120423/" "org-fstree-20090723/" "rainbow-mode-0.2/" "dired+-20120425/" "ido-ubiquitous-20120412/" "shen-mode-0.1/" "idle-highlight-mode-20110817/" "html-script-src-20120403/" "flymake-jslint-20120319/" "flymake-shell-20120409/" "multi-web-mode-20110821/" "prelude-c-20120417/" "c-eldoc-20110516/" "../" "./")
+
+ ("/home/hjs/.emacs.d/elpa/magit-20120421/" (20378 649) "magit-topgit.el" "rebase-mode.el" "magit-stgit.el" "magit.el" "magit-topgit.elc" "magit-stgit.elc" "magit-autoloads.el" ".dir-locals.elc" "magit-bisect.el" "magit-svn.el" "../" "magit.elc" "magit-svn.elc" ".dir-locals.el" "./" "magit-key-mode.el" "magit-pkg.elc" "magit-wip.el" "rebase-mode.elc" "magit-key-mode.elc" "magit-wip.elc" "magit-pkg.el" "magit-bisect.elc")
+
+ ("/home/hjs/.emacs.d/elpa/magit-simple-keys-1.0.0/" (20378 652) "magit-simple-keys-autoloads.el" "magit-simple-keys.el" "magit-simple-keys.elc" "../" "magit-simple-keys-pkg.el" "./" "magit-simple-keys-pkg.elc")
+
+ ("/home/hjs/.emacs.d/auto-complete/" (20288 16144) ".git/" "fuzzy.elc" "auto-complete-config.elc" "fuzzy.el" "auto-complete.elc" "../" "README.txt" "semantic.cache" "TODO.txt" "popup.el" ".gitignore" "COPYING.FDL.txt" "popup.elc" "./" "etc/" "COPYING.GPLv3.txt" "auto-complete.el" "auto-complete-config.el" "doc/" "dict/" "Makefile")
+
+ ("/home/hjs/.emacs.d/elpa/scala-mode-0.0.2/" (20356 42335) "scala-mode-feature-electric.el" "scala-mode-inf.elc" "scala-mode-variables.elc" "scala-mode-constants.elc" "scala-mode-pkg.el" "scala-mode-feature-tags.elc" "scala-mode-lib.elc" "scala-mode-navigation.elc" "scala-mode-pkg.elc" "contrib/" "scala-mode-feature.elc" "scala-mode-autoloads.el" "README" "scala-mode-fontlock.elc" "scala-mode-auto.elc" "scala-mode-ui.el" "scala-mode-ui.elc" "scala-mode-feature.el" "FUTURE" "scala-mode.el" "scala-mode-constants.el" "../" "scala-mode-lib.el" "scala-mode-feature-electric.elc" "scala-mode-navigation.el" "scala-mode-feature-speedbar.el" "./" "scala-mode-indent.elc" "scala-mode-inf.el" "scala-mode-variables.el" "scala-mode-feature-speedbar.elc" "AUTHORS" "scala-mode-fontlock.el" "scala-mode-feature-tags.el" "scala-mode-auto.el" "scala-mode.elc" "scala-mode-indent.el" "Makefile")
+
+ ("/home/hjs/org/lisp/" (20373 59789) "series.txt" "string.txt" "tips.org" "ecl.org" "allegroserve.txt" "acl2.org" "specialized-lisp.org" "slime.org" "symbolics-genera.org" "scheme.org" "mop.org" "utilities.org" "sbcl.org" "fset.org" "iterate.txt" "libraries.txt" "cl-pdf.txt" "thread-safe-issues.txt" "clg.txt" "portability.org" "macro.txt" "clsh.org" "ansicl.txt" "features.txt" "allegrocl-cg.txt" "../" "asdf.org" "condition-style-guide.org" "cl-typesetting.txt" "code-walker.org" "screamer.txt" "allegrocl.txt" "coding-standard.txt" "weblocks.txt" "./" "paip.org" "pipes.org" "clojurescript.org" "persistence-lemmens.txt" "todo.txt" "gsll.org" "extensions.org" "errors.txt" "clojure.org" "literate-programming.txt" "cl-yacc.org" "tracing.org" "allegrocache.txt" "cffi.txt" "parenscript.org")
+
+ ("/home/hjs/org/algorithms/" (20374 57228) "lockfree-algorithms.org" "set-similarity.org" "sat-smt-solver.org" "hierarchical-clustering.org" "full-text-search.org" "balanced-partition.tex" "hashing-searching-sketching.org" "rating.org" "linkage.org" "bdd.org" "../" "zipper.org" "shortest-paths.org" "./" "lucene.org" "spinlocks.org" "selection-algorithm.org" "data-cleaning.org")
+
+ ("/home/hjs/workspace/maptia/heroku/" (20374 51966) "test/" ".git/" "src/" "target/" ".lein-deps-sum" ".lein-plugins/" "Procfile" "native/" "../" "resources/" ".gitignore" "src-cljs/" "./" "README.md" "project.clj")
+
+ ("/home/hjs/.emacs.d/elpa/slime-20101113.1/contrib/" (19923 63316) "bridge.el" "swank-r6rs.scm" "slime-highlight-edits.el" "slime-xref-browser.el" "swank-indentation.lisp" "swank-fuzzy.lisp" "slime-presentation-streams.el" "swank-jolt.k" "swank-ikarus.ss" "slime-autodoc.el" "slime-typeout-frame.el" "swank-motd.lisp" "slime-scheme.el" "slime-parse.el" "slime-fuzzy.el" "swank-larceny.scm" "slime-enclosing-context.el" "README" "swank-goo.goo" "swank-kawa.scm" "swank-arglists.lisp" "swank-c-p-c.lisp" "swank-hyperdoc.lisp" "slime-sbcl-exts.el" "ChangeLog" "slime-banner.el" "../" "swank-sbcl-exts.lisp" "slime-snapshot.el" "slime-presentations.el" "slime-package-fu.el" "slime-c-p-c.el" "swank-sprof.lisp" "swank-listener-hooks.lisp" "./" "slime-sprof.el" "swank-snapshot.lisp" "slime-asdf.el" "swank-clipboard.lisp" "slime-tramp.el" "inferior-slime.el" "slime-references.el" "slime-editing-commands.el" "slime-fontifying-fu.el" "swank-package-fu.lisp" "slime-mrepl.el" "slime-media.el" "slime-hyperdoc.el" "slime-clipboard.el" "swank-media.lisp" "slime-fancy-inspector.el" "swank.rb" "swank-presentation-streams.lisp" "slime-repl.el" "swank-mit-scheme.scm" "slime-indentation.el" "slime-mdot-fu.el" "slime-scratch.el" "swank-fancy-inspector.lisp" "slime-fancy.el" "slime-compiler-notes-tree.el" "slime-motd.el" "swank-presentations.lisp" "swank-asdf.lisp")
+
+ ("/home/hjs/.emacs.d/elpa/slime-20101113.1/" (20374 12654) "swank-ecl.lisp" "hyperspec.el" "slime-autoloads.el" "slime-pkg.el" ".cvsignore" "swank-clisp.lisp" "swank-allegro.lisp" "swank-lispworks.lisp" "swank-scl.lisp" "sbcl-pprint-patch.lisp" "contrib/" "swank-loader.lisp" "swank-sbcl.lisp" "mkdist.sh" "README" "metering.lisp" "xref.lisp" "swank-corman.lisp" "slime.el" "ChangeLog" "../" "swank.asd" "swank.lisp" "swank-abcl.lisp" "swank-ccl.lisp" "./" "swank-rpc.lisp" "swank-gray.lisp" "swank-cmucl.lisp" "swank-match.lisp" "nregex.lisp" "HACKING" "PROBLEMS" "swank-source-path-parser.lisp" "NEWS" "doc/" "start-swank.lisp" "swank-source-file-cache.lisp" "swank-backend.lisp" "test.sh")
+
+ ("/home/hjs/workspace/maptia/heroku/src/wordpress/" (20373 61414) "../" "crawler.clj" "./")
+
+ ("/tmp/slime-20101113.1/" (19923 63316) "swank-ecl.lisp" "hyperspec.el" "slime-autoloads.el" "slime-pkg.el" ".cvsignore" "swank-clisp.lisp" "swank-allegro.lisp" "swank-lispworks.lisp" "swank-scl.lisp" "sbcl-pprint-patch.lisp" "contrib/" "swank-loader.lisp" "swank-sbcl.lisp" "mkdist.sh" "README" "metering.lisp" "xref.lisp" "swank-corman.lisp" "slime.el" "ChangeLog" "../" "swank.asd" "swank.lisp" "swank-abcl.lisp" "swank-ccl.lisp" "./" "swank-rpc.lisp" "swank-gray.lisp" "swank-cmucl.lisp" "swank-match.lisp" "nregex.lisp" "HACKING" "PROBLEMS" "swank-source-path-parser.lisp" "NEWS" "doc/" "start-swank.lisp" "swank-source-file-cache.lisp" "swank-backend.lisp" "test.sh")
+
+ ("/home/hjs/org/" (20288 16497) "projects/" ".git/" "lisp/" "notes/" "../" "refcard/" "writing/" ".gitignore" "./" "programming/" "reading/" "algorithms/" "gtd/")
+
+ ("/home/hjs/src/ritz/slime/" (20373 58332) "swank-ecl.lisp" "hyperspec.el" "slime-autoloads.el" ".cvsignore" "swank-clisp.lisp" "swank-allegro.lisp" "swank-lispworks.lisp" "swank-scl.lisp" "sbcl-pprint-patch.lisp" "contrib/" "swank-loader.lisp" "swank-sbcl.lisp" "mkdist.sh" "README" "metering.lisp" "xref.lisp" "swank-corman.lisp" "slime.el" "ChangeLog" "slime-1.2/" "../" "swank.asd" "swank.lisp" "swank-abcl.lisp" "swank-ccl.lisp" "./" "swank-rpc.lisp" "swank-gray.lisp" "swank-cmucl.lisp" "swank-match.lisp" "nregex.lisp" "HACKING" "PROBLEMS" "swank-source-path-parser.lisp" "NEWS" "doc/" "start-swank.lisp" "swank-source-file-cache.lisp" "swank-backend.lisp" "test.sh")
+
+ ("/home/hjs/.emacs.d/elpa/slime-ritz-0.2.1/" (20373 58407) "slime-ritz.elc" "slime-ritz-pkg.el" "../" "slime-ritz-pkg.elc" "./" "slime-ritz.el" "slime-ritz-autoloads.el")
+
+ ("/home/hjs/src/ritz/" (20373 57522) ".git/" "src/" "lein-ritz/" "DEVELOPMENT.md" "ReleaseNotes.md" "finish-release.sh" "../" ".gitignore" "./" "build-elpa-package.sh" "start-release.sh" "README.md" "project.clj" "slime/" "update-slime-ritz-package-version.sh")
+
+ ("/home/hjs/cl/installed/slime-20120407-cvs/contrib/" (20373 56478) "bridge.el" "swank-r6rs.scm" "slime-highlight-edits.el" "slime-xref-browser.el" "swank-indentation.lisp" "swank-fuzzy.lisp" "slime-presentation-streams.el" "swank-jolt.k" "swank-repl.lisp" "swank-ikarus.ss" "slime-autodoc.el" "slime-typeout-frame.el" "swank-motd.lisp" "slime-scheme.el" "slime-parse.el" "slime-fuzzy.el" "swank-larceny.scm" "slime-cl-indent.el" "slime-enclosing-context.el" "README" "swank-goo.goo" "swank-kawa.scm" "swank-arglists.lisp" "swank-c-p-c.lisp" "swank-hyperdoc.lisp" "slime-sbcl-exts.el" "ChangeLog" "slime-banner.el" "slime-cl-indent-test.txt" "../" "swank-sbcl-exts.lisp" "slime-snapshot.el" "slime-presentations.el" "slime-package-fu.el" "slime-c-p-c.el" "swank-sprof.lisp" "swank-listener-hooks.lisp" "swank-util.lisp" "./" "slime-sprof.el" "swank-snapshot.lisp" "slime-asdf.el" "swank-clipboard.lisp" "slime-tramp.el" "inferior-slime.el" "slime-references.el" "slime-editing-commands.el" "slime-fontifying-fu.el" "swank-mrepl.lisp" "swank-package-fu.lisp" "slime-mrepl.el" "slime-media.el" "slime-hyperdoc.el" "slime-clipboard.el" "swank-media.lisp" "slime-fancy-inspector.el" "swank.rb" "swank-presentation-streams.lisp" "slime-repl.el" "swank-mit-scheme.scm" "slime-indentation.el" "slime-mdot-fu.el" "slime-scratch.el" "swank-fancy-inspector.lisp" "slime-fancy.el" "slime-compiler-notes-tree.el" "slime-motd.el" "swank-presentations.lisp" "swank-asdf.lisp")
+
+ ("/home/hjs/cl/installed/slime-20120407-cvs/" (20373 51756) "swank-ecl.lisp" "hyperspec.el" "slime-autoloads.el" ".cvsignore" "swank-clisp.lisp" "swank-allegro.lisp" "swank-lispworks.lisp" "swank-scl.lisp" "sbcl-pprint-patch.lisp" "contrib/" "swank-loader.lisp" "swank-sbcl.lisp" "mkdist.sh" "README" "metering.lisp" "xref.lisp" "swank-corman.lisp" "slime.el" "ChangeLog" "../" "swank.asd" "swank.lisp" "swank-abcl.lisp" "swank-ccl.lisp" "./" "swank-rpc.lisp" "swank-gray.lisp" "swank-cmucl.lisp" "swank-match.lisp" "nregex.lisp" "HACKING" "PROBLEMS" "swank-source-path-parser.lisp" "NEWS" "doc/" "start-swank.lisp" "swank-source-file-cache.lisp" "swank-backend.lisp" "test.sh")
+
+ ("/home/hjs/workspace/maptia/heroku/target/" (20373 55300) "pom.xml" "../" "./" "classes/")
+
+ ("/home/hjs/.m2/repository/swank-clojure/swank-clojure/1.4.0/" (20373 53743) "swank-clojure-1.4.0.pom.sha1" "_maven.repositories" "../" "./" "swank-clojure-1.4.0.jar.sha1" "swank-clojure-1.4.0.jar" "swank-clojure-1.4.0.pom")
+
+ ("/home/hjs/.lein/" (20373 55192) "../" "indices/" "./" "plugins/" "self-installs/" "bin/")
+
+ ("/home/hjs/.lein/bin/" (20373 48405) "../" "swank-clojure" "./")
+
+ ("/home/hjs/cl/quicklisp/dists/quicklisp/software/slime-20120407-cvs/" (20373 51756) "swank-ecl.lisp" "hyperspec.el" "slime-autoloads.el" ".cvsignore" "swank-clisp.lisp" "swank-allegro.lisp" "swank-lispworks.lisp" "swank-scl.lisp" "sbcl-pprint-patch.lisp" "contrib/" "swank-loader.lisp" "swank-sbcl.lisp" "mkdist.sh" "README" "metering.lisp" "xref.lisp" "swank-corman.lisp" "slime.el" "ChangeLog" "../" "swank.asd" "swank.lisp" "swank-abcl.lisp" "swank-ccl.lisp" "./" "swank-rpc.lisp" "swank-gray.lisp" "swank-cmucl.lisp" "swank-match.lisp" "nregex.lisp" "HACKING" "PROBLEMS" "swank-source-path-parser.lisp" "NEWS" "doc/" "start-swank.lisp" "swank-source-file-cache.lisp" "swank-backend.lisp" "test.sh")
+
+ ("/home/hjs/cl/quicklisp/dists/quicklisp/software/slime-20120407-cvs/contrib/" (20373 53781) "bridge.el" "swank-r6rs.scm" "slime-highlight-edits.el" "slime-xref-browser.el" "swank-indentation.lisp" "swank-fuzzy.lisp" "slime-presentation-streams.el" "swank-jolt.k" "swank-repl.lisp" "swank-ikarus.ss" "slime-autodoc.el" "slime-typeout-frame.el" "swank-motd.lisp" "slime-scheme.el" "slime-parse.el" "slime-fuzzy.el" "swank-larceny.scm" "slime-cl-indent.el" "slime-enclosing-context.el" "README" "swank-goo.goo" "swank-kawa.scm" "swank-arglists.lisp" "swank-c-p-c.lisp" "swank-hyperdoc.lisp" "slime-sbcl-exts.el" "ChangeLog" "slime-banner.el" "slime-cl-indent-test.txt" "../" "swank-sbcl-exts.lisp" "slime-snapshot.el" "slime-presentations.el" "slime-package-fu.el" "slime-c-p-c.el" "swank-sprof.lisp" "swank-listener-hooks.lisp" "swank-util.lisp" "./" "slime-sprof.el" "swank-snapshot.lisp" "slime-asdf.el" "swank-clipboard.lisp" "slime-tramp.el" "inferior-slime.el" "slime-references.el" "slime-editing-commands.el" "slime-fontifying-fu.el" "swank-mrepl.lisp" "swank-package-fu.lisp" "slime-mrepl.el" "slime-media.el" "slime-hyperdoc.el" "slime-clipboard.el" "swank-media.lisp" "slime-fancy-inspector.el" "swank.rb" "swank-presentation-streams.lisp" "slime-repl.el" "swank-mit-scheme.scm" "slime-indentation.el" "slime-mdot-fu.el" "slime-scratch.el" "swank-fancy-inspector.lisp" "slime-fancy.el" "slime-compiler-notes-tree.el" "slime-motd.el" "swank-presentations.lisp" "swank-asdf.lisp")
+
+ ("/home/hjs/cl/installed/" (20373 47613) "hu.dwim.defclass-star-20110219-darcs/" "closer-mop-20110829-darcs/" "slime-20120208-cvs/" "rfc2388-20111105-http/" "alexandria-20111203-git/" "cl-heredoc-20101006-git/" "rfc2388-20101006-http/" "manardb-20101207-git/" "hu.dwim.quasi-quote-20110522-darcs/" "misc-extensions-20111203-cvs/" "drakma-1.2.3/" "hu.dwim.asdf-20110619-darcs/" "metatilities-base-20120208-git/" "hu.dwim.util-20111105-darcs/" "bordeaux-threads-0.8.1/" "puri-20101006-git/" "fare-csv-20120305-git/" "md5-20101006-git/" "uuid-20110730-http/" "rutils-20111203-git/" "drakma-1.2.6/" "alexandria-20110522-git/" "s-xml-20120305-cvs/" "hu.dwim.util-20110829-darcs/" "clazy-20110619-cvs/" "hu.dwim.asdf-20110829-darcs/" "clws-20101006-git/" "closer-mop-20110619-darcs/" "contextl-20111105-darcs/" "ltk-0.96/" "lparallel-20111203-git/" "iolib-0.7.3/" "hu.dwim.common-lisp-20110219-darcs/" "moptilities-20110110-http/" "closer-mop-20120407-darcs/" "slime-20110522-cvs/" "lparallel-20120407-git/" "babel-20101107-darcs/" "iterate-20110219-darcs/" "drakma-1.2.5/" "cl+ssl-20110418-cvs/" "usocket-0.5.4/" "contextl-20120407-darcs/" "lw-compat-20101006-darcs/" "closer-mop-20120208-darcs/" "flexi-streams-1.0.7/" "binary-types-20101006-git/" "cl-ppcre-2.0.3/" "hu.dwim.util-20110619-darcs/" "hunchentoot-1.2.3/" "antik-20111105-git/" "slime-20110730-cvs/" "gsll-20111105-git/" "closer-mop-20110418-darcs/" "cl-irregsexp-20101006-git/" "slime-20111105-cvs/" "slime-20120107-cvs/" "able-20111203-git/" "cl+ssl-20110619-git/" "s-xml-rpc-20101006-http/" "hu.dwim.util-20110522-darcs/" "metatilities-base-20111105-git/" "trivial-utf-8-20111001-darcs/" "hu.dwim.syntax-sugar-20120107-darcs/" "hu.dwim.syntax-sugar-20110219-darcs/" "split-sequence-1.0/" "hu.dwim.util-20120107-darcs/" "trivial-backtrace-20101006-git/" "rutils-20120305-git/" "hu.dwim.asdf-20120107-darcs/" "slime-20120407-cvs/" "metabang-bind-20120208-git/" "metatilities-20101006-darcs/" "osicat-20110619-git/" "cl-unicode-0.1.2/" "hu.dwim.walker-20120107-darcs/" "drakma-1.2.4/" "misc-extensions-20101006-cvs/" "fare-csv-20111203-git/" "bordeaux-threads-0.8.0/" "cl+ssl-20120305-git/" "chunga-1.1.1/" "fare-csv-20101006-git/" "hunchentoot-1.2.2/" "able-20111105-git/" "hu.dwim.def-20110219-darcs/" "cl-interpol-0.2.1/" "stefil-20101107-darcs/" "cl-containers-20110320-git/" "trivial-features-20120107-git/" "fsbv-20110829-git/" "usocket-0.5.2/" "trivial-garbage-20110730-git/" "cl-base64-20101006-git/" "cl-who-0.11.1/" "metatilities-base-20110829-git/" "rfc2388-20110619-http/" "hunchentoot-1.2.1/" "asdf-system-connections-20101006-darcs/" "metatilities-base-20120407-git/" "rutils-1.0.0-git/" "rutils-20110619-git/" "usocket-0.5.5/" "cffi_0.10.6/" "slime-20110829-cvs/" "metabang-bind-20110418-git/" "clazy-20120208-cvs/" "cl-launch-20111105-http/" "hu.dwim.asdf-20110522-darcs/" "s-xml-20110730-cvs/" "fset-20111203-svn/" "closer-mop-20110730-darcs/" "alexandria-20120407-git/" "ironclad_0.28/" "hu.dwim.walker-20110219-darcs/" "rutils-20120208-git/" "cl-unicode-0.1.1/" "trivial-garbage-20120107-git/" "hu.dwim.defclass-star-20111105-darcs/" "babel-20110730-git/" "cl+ssl-20111105-git/" "closer-mop-20111105-darcs/" "hunchentoot-1.1.1/" "cl-org-mode-20101207-git/" "cl-json-20110730-darcs/" "cl-fad-0.6.4/" "slime-20110619-cvs/" "alexandria-20111105-git/" "static-vectors-20101006-git/" "ironclad_0.30/" "lparallel-20120208-git/" "trivial-garbage-20101006-darcs/" "babel-20120407-git/" "osicat-20120407-git/" "lparallel-20111105-git/" "named-readtables-20101006-darcs/" "trivial-features-20120407-git/" "iterate-20111001-darcs/" "contextl-20101006-darcs/" "alexandria-20120208-git/" "hu.dwim.util-20120208-darcs/" "hu.dwim.quasi-quote-20111001-darcs/" "cl-json-20101006-darcs/" "rfc2388-20120107-http/" "gsll-20110829-git/" "usocket-0.5.3/" "hu.dwim.common-20110219-darcs/" "trivial-gray-streams-20110522-cvs/" "antik-20110829-git/" "trivial-features-20101006-darcs/" "static-vectors-20120107-git/" "babel-20120208-git/" "babel-20120107-git/" "static-vectors-20120307-git/" "closer-mop-20120107-darcs/" "fset-20101006-svn/" "misc-extensions-20120208-cvs/" "1553da225ffb795fc4f9aa1409f82802b723986a.data" "../" "./")
+
+ ("/home/hjs/cl/quicklisp/dists/quicklisp/installed/systems/" (20373 51366) "rfc2388.txt" "trivial-utf-8.txt" "manardb-test.txt" "hu.dwim.util.linear-mapping.txt" "iolib.txt" "usocket-test.txt" "iolib.syscalls.txt" "bordeaux-threads.txt" "hu.dwim.util.temporary-files.txt" "ltk-mw.txt" "hu.dwim.defclass-star+hu.dwim.def+contextl.txt" "moptilities-test.txt" "stefil.txt" "hu.dwim.util.standard-process.txt" "cl-fad.txt" "hu.dwim.util.authorization.txt" "alexandria-tests.txt" "cl-containers-test.txt" "trivial-garbage.txt" "hu.dwim.quasi-quote.js.txt" "cl-unicode.txt" "hu.dwim.syntax-sugar.test.txt" "hu.dwim.def.test.txt" "puri.txt" "hu.dwim.quasi-quote.xml+cxml.txt" "cl-irregsexp.txt" "hu.dwim.quasi-quote.css.txt" "iolib.os.txt" "ltk.txt" "iolib.multiplex.txt" "cl-containers.txt" "hu.dwim.quasi-quote.xml.txt" "hu.dwim.syntax-sugar+hu.dwim.walker.txt" "lw-compat.txt" "ltk-remote.txt" "cl-interpol.txt" "hu.dwim.util.mop.txt" "closer-mop.txt" "metatilities-test.txt" "trivial-gray-streams.txt" "cffi-uffi-compat.txt" "iolib-tests.txt" "cl-org-mode.txt" "hu.dwim.util.source.txt" "iolib.sockets.txt" "fsbv.txt" "iterate.txt" "hu.dwim.def+hu.dwim.delico.txt" "cl-heredoc.txt" "hu.dwim.util.finite-state-machine.txt" "hu.dwim.util.zlib.txt" "hu.dwim.syntax-sugar.txt" "hu.dwim.defclass-star+swank.txt" "iolib.streams.txt" "hu.dwim.quasi-quote.test.txt" "metatilities-base.txt" "hu.dwim.syntax-sugar.unicode.txt" "trivial-features-tests.txt" "hu.dwim.def.namespace.txt" "osicat-tests.txt" "hu.dwim.util.error-handling.txt" "iolib.trivial-sockets.txt" "gsll.txt" "cl-json.txt" "babel-streams.txt" "hu.dwim.util.error-handling+swank.txt" "hu.dwim.common.txt" "lparallel-bench.txt" "chunga.txt" "asdf-system-connections.txt" "cl-launch.txt" "osicat.txt" "cl-irregsexp-test.txt" "uuid.txt" "hu.dwim.asdf.txt" "cffi-grovel.txt" "hu.dwim.util+iolib.txt" "babel-tests.txt" "hu.dwim.walker.test.txt" "hu.dwim.util.threads.txt" "hunchentoot.txt" "hu.dwim.defclass-star.txt" "hu.dwim.def.txt" "hu.dwim.util.flexml.txt" "manardb.txt" "trivial-features.txt" "cl-ppcre.txt" "dynamic-wind.txt" "fare-csv.txt" "metabang-bind.txt" "metatilities.txt" "cffi-examples.txt" "s-xml-rpc.txt" "usocket.txt" "lparallel-test.txt" "named-readtables.txt" "drakma.txt" "hu.dwim.defclass-star+hu.dwim.def.txt" "cl-who.txt" "alexandria.txt" "antik.txt" "lparallel.txt" "hu.dwim.walker.txt" "iolib.pathnames.txt" "hu.dwim.quasi-quote.txt" "misc-extensions.txt" "rutils.txt" "ironclad.txt" "cl+ssl.txt" "hu.dwim.quasi-quote.xml+hu.dwim.quasi-quote.js.txt" "clws.txt" "moptilities.txt" "s-xml.txt" "cl-base64.txt" "cl-ppcre-unicode.txt" "fset.txt" "hu.dwim.util.txt" "static-vectors.txt" "md5.txt" "hu.dwim.util.soap.txt" "contextl.txt" "hu.dwim.defclass-star.test.txt" "trivial-backtrace.txt" "flexi-streams.txt" "hu.dwim.def+contextl.txt" "clazy.txt" "metabang-bind-test.txt" "able.txt" "hu.dwim.util.i18n.txt" "split-sequence.txt" "binary-types.txt" "hu.dwim.def+swank.txt" "cffi.txt" "trivial-backtrace-test.txt" "hu.dwim.defclass-star+contextl.txt" "babel.txt" "iolib.examples.txt" "cl-heredoc-test.txt" "hu.dwim.util.worker-group.txt" "bordeaux-threads-test.txt" "iolib.base.txt" "hu.dwim.common-lisp.txt" "hu.dwim.def+cl-l10n.txt" "swank.txt" "hu.dwim.def+hu.dwim.common.txt" "../" "./")
+
+ ("/home/hjs/cl/quicklisp/dists/quicklisp/installed/" (20288 16243) "systems/" "../" "releases/" "./")
+
+ ("/home/hjs/cl/quicklisp/dists/quicklisp/" (20373 47594) "archives/" "software/" "systems.txt" "distinfo.txt" "enabled.txt" "installed/" "../" "releases.txt" "./" "releases.cdb" "systems.cdb")
+
+ ("/home/hjs/cl/quicklisp/dists/" (20288 16231) "quicklisp/" "../" "./")
+
+ ("/home/hjs/cl/quicklisp/dists/quicklisp/software/slime-20120208-cvs/" (20292 64439) "swank-ecl.lisp" "hyperspec.el" "slime-autoloads.el" ".cvsignore" "swank-clisp.lisp" "swank-allegro.lisp" "swank-lispworks.lisp" "swank-scl.lisp" "sbcl-pprint-patch.lisp" "contrib/" "swank-loader.lisp" "swank-sbcl.lisp" "mkdist.sh" "README" "metering.lisp" "xref.lisp" "swank-corman.lisp" "slime.el" "ChangeLog" "../" "swank.asd" "swank.lisp" "swank-abcl.lisp" "swank-ccl.lisp" "./" "swank-rpc.lisp" "swank-gray.lisp" "swank-cmucl.lisp" "swank-match.lisp" "nregex.lisp" "HACKING" "PROBLEMS" "swank-source-path-parser.lisp" "NEWS" "doc/" "start-swank.lisp" "swank-source-file-cache.lisp" "swank-backend.lisp" "test.sh")
+
+ ("/home/hjs/script/" (20373 49185) ".git/" "ec" "send-to-lisp" ".tmux.conf~" "ssh-fast.sh" ".hgrc" ".Rinit" "sndrec.sh" "webshare" ".Xdefaults" ".swank.lisp" "preferences/" "dos2unix.sh" "home-backup.sh" "del-fasl.sh" "../" "initprj" "ffmpeg-dlsr-videos.sh" "system-backup.sh" ".gitignore" "./" ".config/" ".zshrc" "etc/" ".gconf/" "emacs" "bash_completion_tmux.sh" "dirsize" "vncserver.sh" ".bashrc" ".tmux.conf" ".gitconfig")
+
+ ("/home/hjs/workspace/maptia/heroku/src/" (20372 25207) "test/" "../" "wordpress/" "./")
+
+ ("/home/hjs/org/projects/maptia/" (20372 37187) "competitors.org" "reponse-show-area.json" "meeting.org" "data-import.org" "api-design.txt" "../" "schedule.org" "./" "optimization.org" "sysadmin.org" "software.org" "technologies.org" "database-design.txt" "risk.org" "checklist.org" "diary.org")
+
+ ("/home/hjs/workspace/maptia/" (20372 16963) ".git/" "noir-test/" "../" ".gitignore" "./" "docs/" "prototype/" "one/" "examples/" "s3/" "heroku/")
+
+ ("/home/hjs/Downloads/" (20370 47333) "p149-claessen.pdf" "Gifford_usingforreal_eurocon2011.pdf" "OraGoogle-Trial-GoogleOpeningStills (1).pdf" "2_kap2.pdf" "Jeremy Bentley_Semaphore_search_Eurocon2011.pdf" "Clojure Documentation.pdf" "QConSF2011-MikeMalone-SimpleGeoStayingAgileatScale.pdf" "Teofilie_NaturalLanguageSearchInSolr_eurocon2011.pdf" "QConLondon2012-AttilaSzegediJVMperformanceoptimizationsatTwittersscale.pdf" "StrangeLoop2010-ScottDavis-MicroFormats.pdf" "Willnauer_today_tomorrow_and_beyond_eurocon2011.pdf" "æµªæ½®ä¹å·++googleé»æ¿æ¥+1-15ç« +ä¸ªäººæ´ç.pdf" "Ingersoll_Lucid_Eurocon-keynote.pdf" ".~lock.MVP-features-full-list.xls#" "report.xml" "Gospodnetic Otis - ppt - Search Analytics What Why How.pdf" "Binns_archiveit_eurocon2011.pdf" "otis_gospodnetic_search_analytics_lucene_eurocon_2011_0.pdf" "ETIR_2-Apr-12.pdf" "SUML.pdf" "Brubacher-Cascalog.pdf" "LINUX-voltdb-2.5.tar.gz" "StrangeLoop2010-LeeBurke.pdf" "Busch_twitter_realtime_search_eurocon_11.pdf" "miller_solr4highlights2_eurocon2011.pdf" "User Experience.doc" "solrapplicationdevelopmenttutorial-110722153427-phpapp02.pdf" "StrangeLoop2010-MikhailPanchenko-Flickr.pdf" "StrangeLoop2010-BlochLee-JavaPuzzlers.pdf" "chinese.pdf" "CW312.pdf" "scholten_Configuring_Mahout_Clustering_Jobs_Eurocon2011.pdf" "StrangeLoop2010-HilaryMason.pdf" "Baldeschwieler_HortonWorks_LuceneEurocon20111018.pdf" "ä»£ç ä¹ç¾ æµªæ½®ä¹å· æ°å­¦ä¹ç¾(å®æ´ç).pdf" "Koster_refactoring-a-solr-based-api-application_eurocon2011.pdf" "Muir_Eurocon_ImprovedSearchLucene4_eurocon2011.pdf" "p72-hughes.pdf" "Schindler-Java7_eurocon2011.pdf" "Seeley_Eurocon_SolrFacets.pdf" "thesis.pdf" "US20050035964.pdf" "scheme/" "1204.1754v1.pdf" "Geocoding_Best_Practices.pdf" "p170-gaede.pdf" "Hex.pdf" "Startup_Genome_Report_Extra_Premature_Scaling_1.56.pdf" "Provalov_Cengage_Relevance-Cengage-English-NonEnglish-1_eurocon2011.pdf" "ScalaDays2012-SLICK.pdf" "Cè¯­è¨æ·±åº¦è§£å.pdf" "QConSF2011-SiddharthAnand-KeepingMoviesRunningAmidThunderstorms.pdf" "voltdb-client-java-2.5.tar.gz" "cljs-cheatsheet.pdf" "Andera-Namespaces-Symbols-Vars.zip" "Eurocon2011_JoanCodina.pdf" "StrangeLoop2010-YehudaKatz.pdf" "OraGoogle-Trial-GoogleOpeningStills.pdf" "Understanding Java Garbage Collection MRI v1.pdf" "condition-system.pdf" "report.csv" "aos.pdf" "otis_gospodnetic_solr_performance_monitoring_lucene_eurocon_2011_0.pdf" "../" "./")
+
+ ("/home/hjs/src/sbcl/src/code/" (20369 43501) "cross-modular.lisp" "bignum.lisp" "debug-info.lisp" "mips-vm.lisp" "external-formats/" "ntrace.fasl" "defmacro.lisp" "linkage-table.lisp" "force-delayed-defbangmethods.fasl" "early-package.lisp" "early-impl.lisp" "hppa-vm.lisp" "fdefinition.lisp" "early-alieneval.lisp" "condition.lisp" "sunos-os.lisp" "foreign-load.lisp" "cross-boole.lisp" "step.lisp" "type-class.lisp" "deadline.lisp" "defbangstruct.lisp" "list.lisp" "inspect.fasl" "mipsstrops.lisp" "target-format.lisp" "early-thread.lisp" "loop.lisp" "float.lisp" "defboot.lisp" "early-array.lisp" "cross-thread.lisp" "target-sap.lisp" "query.lisp" "stubs.lisp" "coerce.lisp" "early-type.lisp" "host-pprint.lisp" "late-setf.lisp" "setf-funs.lisp" "early-print.lisp" "primordial-extensions.lisp" "sysmacs.lisp" "early-defstruct-args.lisp-expr" "string.lisp" "inspect.lisp" "target-load.lisp" "x86-64-vm.lisp" "alloc.lisp" "target-pathname.lisp" "late-condition.lisp" "exhaust.lisp" "print.lisp" "sparc-vm.lisp" "symbol.lisp" "alpha-vm.lisp" "pred.lisp" "early-setf.lisp" "target-misc.lisp" "late-deftypes-for-target.lisp" "cross-condition.lisp" "unportable-float.lisp" "load.lisp" "macros.lisp" "readtable.lisp" "sharpm.lisp" "defstruct.lisp" "win32-os.lisp" "late-condition.fasl" "defbangmacro.lisp" "target-error.lisp" "force-delayed-defbangmacros.lisp" "xset.lisp" "char.lisp" "debug.lisp" "seq.lisp" "force-delayed-defbangmethods.lisp" "final.lisp" "gc.lisp" "debug-var-io.lisp" "target-sxhash.lisp" "target-defbangmethod.lisp" "cross-make-load-form.lisp" "dyncount.lisp" "early-source-location.lisp" "target-exception.lisp" "unix-foreign-load.lisp" "ppc-vm.lisp" "cross-char.lisp" "late-extensions.lisp" "misc.lisp" "defbangconstant.lisp" "win32-pathname.lisp" "module.lisp" "bit-bash.lisp" "primordial-type.lisp" "serve-event.lisp" "describe.lisp" "fd-stream.lisp" "early-full-eval.lisp" "funutils.lisp" "specializable-array.lisp" "late-type.lisp" "cross-misc.lisp" "cl-specials.lisp" "early-format.lisp" "signal.lisp" "array.lisp" "win32-foreign-load.lisp" "random.lisp" "describe-policy.fasl" "cross-io.lisp" "target-package.lisp" "early-float.lisp" "purify.lisp" "full-eval.lisp" "unix-pathname.lisp" "cross-byte.lisp" "interr.lisp" "osf1-os.lisp" "error-error.lisp" "eval.lisp" "target-stream.lisp" "common-os.lisp" "uncross.lisp" "target-defstruct.lisp" "early-constants.lisp" "macroexpand.lisp" "sxhash.lisp" "target-alieneval.lisp" "defpackage.lisp" "fop.lisp" "alien-type.lisp" "early-time.lisp" "early-extensions.lisp" "hash-table.lisp" "octets.lisp" "defsetfs.lisp" "toplevel.lisp" "source-location.lisp" "early-pprint.lisp" "float-trap.lisp" "numbers.lisp" "class-init.lisp" "target-signal.lisp" "time.lisp" "function-names.lisp" "target-type.lisp" "hpux-os.lisp" "late-cas.lisp" "target-extensions.lisp" "timer.lisp" "bsd-os.lisp" "cas.lisp" "cold-error.lisp" "host-c-call.lisp" "ansi-stream.lisp" "barrier.lisp" "destructuring-bind.lisp" "early-step.lisp" "huffman.lisp" "target-random.lisp" "misc-aliens.lisp" "early-defbangmethod.lisp" "describe-policy.lisp" "unix.lisp" "format-time.lisp" "early-cl.lisp" "room.lisp" "kernel.lisp" "filesys.lisp" "force-delayed-defbangconstants.lisp" "late-format.lisp" "typedefs.lisp" "x86-vm.lisp" "step.fasl" "cross-float.lisp" "typecheckfuns.lisp" "backq.lisp" "thread.lisp" "profile.fasl" "deftypes-for-target.lisp" "host-alieneval.lisp" "run-program.lisp" "defbangtype.lisp" "class.lisp" "linux-os.lisp" "globals.lisp" "target-thread.lisp" "reader.lisp" "late-defbangmethod.lisp" "sc-offset.lisp" "early-fasl.lisp" "pp-backq.lisp" "cross-early.lisp" "sort.lisp" "cold-init-helper-macros.lisp" "irrat.lisp" "win32.lisp" "cross-sap.lisp" "target-hash-table.lisp" "target-c-call.lisp" "pprint.lisp" "show.lisp" "force-delayed-defbangstructs.lisp" "parse-body.lisp" "early-defstructs.lisp" "parse-defmacro-errors.lisp" "cold-init.lisp" "cross-type.lisp" "describe.fasl" "package.lisp" "save.lisp" "run-program.fasl" "weak.lisp" "foreign.lisp" "target-char.lisp" "target-allocate.lisp" "ntrace.lisp" "parse-defmacro.lisp" "debug-int.lisp" "stream.lisp" "type-init.lisp" "error.lisp" "profile.lisp" "pathname.lisp" "typep.lisp" "../" "./")
+
+ ("/home/hjs/org/programming/" (20367 17597) "rpvis-setting.cfg" "semantics.org" "floating-point.org" "haskell.org" "lift.org" "nosql/" "automatic-programming.org" "language-choice.txt" "c.org" "eric-meijer-haskell.org" "concurrency.txt" "performance-engineering.org" "random-number.txt" "datastructures.txt" "llvm.org" "compiler-optimization.txt" "installed-packages.txt" "aspect-oriented.org" "forth.org" "partial-evaluation.org" "nice.txt" "R.org" "nosql.org" "cs-terms.txt" "unicode.org" "libraries.txt" "yap-prolog.org" "api-design.org" "type-class.org" "real-lisper.txt" "plt-scheme.org" "emacs.txt" "jvm-hotspot-tuning.png" "gambitc.org" "generic-programming.org" "../" "unix-programming.org" "gcc.org" "simulation-main-loop.txt" "testing.txt" "functional-design-patterns.txt" "lush.txt" "gauche.org" "oop.txt" "common-lisp-numerical-program-code-optimization.org" "automatic-programming-2.gif" "shared-library-design.org" "automatic-programming-3.gif" "linq.txt" "distributed-systems.org" "./" "software-engineering-good-practices.org" "language-design.txt" "cpu-level-code-optimization.org" "opencl.org" "jquery.org" "cilk.txt" "database-model.txt" "git.txt" "zsh.org" "numerical.txt" "intel-mkl.org" "automatic-programming.org~" "debugging.org" "c99.org" "security.txt" "todo.txt" "mercurial-dvcs.txt" "automatic-programming-1.gif" "software-bugs.txt" "processing.org" "python.org" "regexp.org" "fsharp.org" "10-commandments-for-creating-good-code.txt" "parsing.org" "software-process.txt" "x86-arch.org" "unix-daemon.org" "small-software.txt" "clean.txt" "bigloo.txt" "yield.txt" "ess.org" "jvm.org" "javascript.org" "c++.org")
+
+ ("/home/hjs/src/sbcl/src/" (20288 16095) "pcl/" "runtime/" "../" "./" "assembly/" "cold/" "code/" "compiler/")
+
+ ("/home/hjs/src/sbcl/" (20369 42601) "COPYING" "make-host-2.sh" ".git/" "find-gnumake.sh" "package-data-list.lisp-expr" "src/" "INSTALL" "BUGS" "generate-version.sh" "make-config.sh" ".cvsignore" "binary-distribution.sh" "CREDITS" "make-host-1.lisp" "PRINCIPLES" "contrib/" "README" "make-genesis-2.sh" "make-target-1.sh" "OPTIMIZATIONS" "obj/" "make-genesis-2.lisp" "source-distribution.sh" "clean.sh" "../" "install" "sbcl-pwd.sh" "make.sh" "clean" "config" "make-host-2.lisp" "install.sh" "TLA" "make-target-2-load.lisp" "make-windows-installer.sh" ".gitignore" "tests/" "output/" "release.sh" "distclean.sh" "tagify.sh" "./" "pubring.pgp" "build-order.lisp-expr" "memory-roundup.diff" "Changelog" "html-distribution.sh" "common-lisp-exports.lisp-expr" "git/" "TODO" "version.lisp-expr" "wc.sh" "make-target-2.lisp" "HACKING" "NEWS" "doc/" "base-target-features.lisp-expr" "make-target-contrib.sh" "whitespace-stamp" "make-target-2.sh" "run-sbcl.sh" "slam.sh" "tools-for-build/" "make-host-1.sh")
+
+ ("/home/hjs/src/clojure-contrib/" (20368 36893) ".git/" "src/" "launchers/" "epl-v10.html" "target/" "pom.xml" "clojurescript/" "Revisions" "../" "README.txt" "config/" ".gitignore" "./" "doc/")
+
+ ("/home/hjs/src/" (20368 36710) "sbcl/" "ccl/" "../" "julia/" "./" "mythryl/" "clojure-contrib/")
+
+ ("/home/hjs/workspace/maptia/examples/geonames/" (20368 35185) "../" "java-lib-example.clj" "./")
+
+ ("/home/hjs/workspace/maptia/examples/" (20364 34392) "convex-hull/" "../" "./" "testproject/")
+
+ ("/home/hjs/workspace/maptia/heroku/lib/" (20368 33549) "commons-logging-1.1.1.jar" "ring-servlet-1.0.1.jar" "cdt-1.2.6.2.jar" "jetty-6.1.25.jar" "data.json-0.1.2.jar" "clj-stacktrace-0.2.4.jar" "httpmime-4.1.2.jar" "commons-io-1.4.jar" "clj-http-0.2.7.jar" "commons-codec-1.4.jar" "ring-jetty-adapter-1.0.1.jar" "inflections-0.7.0-20120416.180250-3.jar" "ring-core-1.0.1.jar" "servlet-api-2.5-20081211.jar" "jetty-util-6.1.25.jar" "httpclient-4.1.2.jar" "slingshot-0.9.0.jar" "../" "./" "geocoder-clj-0.0.6-20120313.005140-5.jar" "clojure-1.3.0.jar" "servlet-api-2.5.jar" "swank-clojure-1.4.0.jar" "dspace-geoip-1.2.3.jar" "commons-fileupload-1.2.1.jar" "debug-repl-0.3.1.jar" "httpcore-4.1.2.jar")
+
+ ("/home/hjs/workspace/" (20368 29433) "peval/" "kanren/" "../" "Aptana/" "./" "twitter/" "maptia/" "future/" "derp/" "tsuru-capital/" "cl-rewrite/" "rutils/")
+
+ ("/home/hjs/workspace/heroku/noir-mongo-heroku/src/noir_mongo_heroku/views/" (20368 28082) "common.clj" "../" "./" "welcome.clj")
+
+ ("/home/hjs/workspace/heroku/noir-mongo-heroku/src/noir_mongo_heroku/" (20368 29323) "server.clj" "../" "models/" "./" "views/")
+
+ ("/home/hjs/workspace/heroku/noir-mongo-heroku/" (20368 29347) "test/" ".git/" "src/" "lib/" ".lein-deps-sum" "Procfile" "../" "resources/" ".gitignore" "./" "README.md" "project.clj" "classes/")
+
+ ("/home/hjs/workspace/maptia/heroku/src/demo/" (20368 27790) "hi.clj" "../" "./" "web.clj")
+
+ ("/home/hjs/workspace/heroku/" (20368 27809) "noir-mongo-heroku/" "../" "./")
+
+ ("/home/hjs/workspace/heroku/noir-mongo-heroku/src/" (20368 27809) "noir_mongo_heroku/" "../" "./")
+
+ ("/home/hjs/workspace/maptia/heroku/src/demo/views/" (20368 27724) "../" "./" "welcome.clj")
+
+ ("/home/hjs/.ssh/" (20368 22444) "authorized_keys" "id_rsa" "../" "config" "known_hosts" "keys/" "environment-macbook" "./" "maptia" "known_hosts.old" "id_rsa.pub" "maptia.pub")
+
+ ("/home/hjs/workspace/maptia/prototype/src/cljs/" (20362 2149) "t.cljs" "../" "./")
+
+ ("/home/hjs/org/gtd/" (20363 14174) "book-list.org" "maptia.org" "../" "./" "personal.org")
+
+ ("/media/backup/backup/" (20365 2151) "../" "./")
+
+ ("/home/hjs/workspace/maptia/prototype/" (20362 2149) "public/" "test/" "src/" "lib/" ".lein-deps-sum" ".lein-cljsbuild-compiler-0/" "README" ".lein-plugins/" "../" "./" "project.clj" "classes/")
+
+ ("/home/hjs/workspace/maptia/prototype/src/" (20360 14337) "../" "./" "cljs/" "cljs-macros/" "clj/")
+
+ ("/home/hjs/.ssh/keys/" (20360 30953) "ap-northeast.pem" "ec2-keypair-private.pem" "ec2-cert.pem" "../" "nx.id_dsa.pub" "./" "huangjs-ec2-asia.pem" "ec2-keypair.pem" "huangjs-ec2-us-east.pem" "msi-github.pub" "maptia" "ec2-cert-private.pem" "msi-github" "maptia.pub")
+
+ ("/home/hjs/workspace/maptia/cljs-template/src/leiningen/new/cljs_template/" (20359 19848) "server.clj" "main.clj" "common.clj" "main.cljs" "gitignore" "../" "./" "user.clj" "README.md" "project.clj" "reset.css" "default.css")
+
+ ("/home/hjs/workspace/maptia/cljs-template/" (20360 15322) "src/" "lib/" ".lein-deps-sum" ".lein-plugins/" "../" ".gitignore" "./" "README.md" "project.clj" "classes/")
+
+ ("/home/hjs/workspace/maptia/prototype/src/clj/" (20360 15278) "../" "./" "prototype/")
+
+ ("/home/hjs/workspace/maptia/one/" (20360 14286) "COPYING" "public/" "test/" "src/" "lib/" "templates/" ".lein-deps-sum" ".lein-plugins/" "Procfile" "../" ".gitignore" "./" ".repl/" "README.md" "project.clj" "classes/" "doc/" ".lein-git-deps/" "script/")
+
+ ("/home/hjs/workspace/maptia/one/src/app/clj/one/sample/" (20357 56586) "dev_server.clj" "prod_server.clj" "config.clj" "api.clj" "../" "./" "repl.clj")
+
+ ("/home/hjs/workspace/maptia/one/src/app/clj/one/" (20357 56586) "sample/" "../" "./")
+
+ ("/home/hjs/workspace/maptia/one/src/app/clj/" (20357 56586) "../" "./" "one/" "script/")
+
+ ("/home/hjs/workspace/maptia/one/src/app/" (20357 56586) "../" "./" "cljs/" "cljs-macros/" "clj/")
+
+ ("/home/hjs/workspace/maptia/cljs-template/src/leiningen/new/" (20359 19176) "../" "./" "cljs_template.clj" "cljs_template/")
+
+ ("/home/hjs/workspace/maptia/cljs-template/src/leiningen/" (20359 19176) "new/" "../" "./")
+
+ ("/home/hjs/workspace/maptia/cljs-template/src/" (20359 19176) "leiningen/" "../" "./")
+
+ ("/home/hjs/workspace/maptia/one/lib/" (20359 16478) "tools.macro-0.1.0.jar" "clout-0.4.1.jar" "closure-compiler-r1592.jar" "java.classpath-0.1.0.jar" "ant-launcher-1.8.2.jar" "enlive-1.0.0.jar" "google-closure-library-0.0-790.jar" "jetty-6.1.25.jar" "jsr305-1.3.9.jar" "args4j-2.0.12.jar" "commons-io-1.4.jar" "commons-codec-1.4.jar" "junit-4.8.2.jar" "rhino-1.7R3.jar" "clj-stacktrace-0.2.2.jar" "dev/" "ns-tracker-0.1.1.jar" "tools.namespace-0.1.0.jar" "ring-servlet-1.0.0-RC1.jar" "ring-jetty-adapter-1.0.0-RC1.jar" "servlet-api-2.5-20081211.jar" "jetty-util-6.1.25.jar" "ring-devel-1.0.0-RC1.jar" "../" "hiccup-0.3.7.jar" "ring-1.0.0-RC1.jar" "ring-core-1.0.0-RC1.jar" "lein-swank-1.4.4.jar" "protobuf-java-2.4.1.jar" "./" "compojure-0.6.4.jar" "clojure-1.3.0.jar" "jarjar-1.1.jar" "json-20090211.jar" "servlet-api-2.5.jar" "guava-10.0.1.jar" "core.incubator-0.1.0.jar" "tagsoup-1.2.jar" "commons-fileupload-1.2.1.jar" "ant-1.8.2.jar")
+
+ ("/home/hjs/workspace/maptia/one/src/" (20357 56586) "lib/" "leiningen/" "../" "./" "app/")
+
+ ("/tmp/test/" (20357 56268) "test/" "src/" "lib/" ".lein-deps-sum" "README" "../" ".gitignore" "./" "project.clj" "classes/")
+
+ ("/home/hjs/src/clojure/" (20355 16911) "test/" "changes.md" ".git/" "src/" "clojure.iml" "epl-v10.html" "pom.xml" "../" ".gitignore" "./" "readme.txt" "build.xml" "doc/")
+
+ ("/home/hjs/.emacs.d/color-theme/themes/" (20356 40761) "color-theme-library.el" "../" "color-theme-example.el" "./")
+
+ ("/home/hjs/.emacs.d/elpa/eieio-1.4/" (20356 44212) "eieio-opt.elc" "eieio-pkg.el" "eieio.elc" "eieio-comp.el" "../" "eieio-autoloads.el" "eieio-opt.el" "./" "eieio-comp.elc" "eieio-pkg.elc" "eieio.el")
+
+ ("/home/hjs/cl/quicklisp/" (20288 16244) "asdf.sbfasl" "asdf.64ufasl" "retired/" "setup.lisp" "asdf.lisp" "quicklisp/" "dists/" "cache/" "../" "slime-helper.el" "./" "quicklisp.lisp" "asdf.lx64fsl" "tmp/" "local-projects/")
+
+ ("/home/hjs/.emacs.d/elpa/align-cljlet-0.1/" (20355 23371) "align-cljlet-pkg.el" "align-cljlet.elc" "align-cljlet.el" "align-cljlet-pkg.elc" "../" "./" "align-cljlet-autoloads.el")
+
+ ("/home/hjs/.emacs.d/elpa/archives/" (20355 16609) "marmalade/" "gnu/" "../" "./")
+
+ ("/home/hjs/workspace/cl-rewrite/" (20288 16022) "test/" ".git/" "src/" "BUGS" "cl-rewrite-test.asd" "COPYRIGHT" "note/" "README" "../" "cl-rewrite.asd" "loader.lisp" ".gitignore" "./" "TODO" "resource/")
+
+ ("/home/hjs/workspace/peval/resource/" (20288 16024) "partial/" "cs394p/" "partial-evaluation.lisp" "hu.dwim.partial-eval/" "Similix/" "fateman/" "../" "./" "romanenk/" "sestoft/" "peval.scm")
+
+ ("/home/hjs/workspace/peval/resource/fateman/" (20288 16023) "p2i.lisp" "lda.lisp" "simpsimp.lisp" "jrs.lisp" "../" "./" "pipe.lisp")
+
+ ("/home/hjs/workspace/peval/" (20288 16027) "test/" ".git/" "src/" "peval.asd" "COPYRIGHT" "note/" "README" "LICENSE" "../" ".gitignore" "./" "TODO" "resource/")
+
+ ("/home/hjs/workspace/peval/note/" (20288 16024) "sbcl.org" "ccl.org" "../" "./" "algorithms.org" "design.org")
+
+ ("/home/hjs/cl/lib/mylib/" (20288 16199) "file.lisp" "hjs-lib.asd" "sequence.lisp" "string.lisp" "type.lisp" "lazy-sequence.lisp" "clos.lisp" "asdf.lisp" "array.lisp" "../" "inspection.lisp" "macro.lisp" "./" "os.lisp" "list-comprehension.lisp" "math.lisp" "essential.lisp" "thread-pool.lisp" "concurrency.lisp" "lisp.lisp" "calendar.lisp" "functional.lisp" "math/" "sysadmin.lisp" "database.lisp" "tree.lisp")
+
+ ("/home/hjs/workspace/peval/resource/sestoft/" (20288 16023) "spec.ss" "scheme0.ss" "run.940822-2" "README" "../" "subject.ss" "analyse.ss" "./" "annotate.ss" "run.940822-1")
+
+ ("/home/hjs/workspace/peval/resource/romanenk/Semilux/" (20288 16023) "CONTENTS" "ADT.S" "DEFPRE.S" "PEDEFZ.S" "DSG.S" "DCR.S" "C-PEDEF.ANN" "MENU.S" "SXIO.S" "PRE.S" "POST.S" "PP.S" "SCHEME.INI" "PE.S" "EXAMPLES/" "SPA.S" "EDWIN.INI" "SEMILUX.TXT" "PEMAIN.S" "BTA.S" "../" "PEDEF.ANN" "OCA.S" "PUF.S" "SEMILUX.S" "ENSG.S" "MISC.S" "./" "X-UTIL.S" "PEDEF.S" "SCHEME.ADT" "X-SYNT.S" "ANN.S" "PEDEF.ADT" "C-PEDEF.S" "X-MATCH.S" "CLA.S")
+
+ ("/home/hjs/workspace/cl-gui/lib/hunchen.io/" (20288 16011) "COPYING" "README" "../" "./" "README.md" "server/" "hunchen.io.asd")
+
+ ("/home/hjs/workspace/cl-gui/lib/hunchentoot-1.2.1/test/" (20288 16014) "packages.lisp" "script.lisp" "../" "test-handlers.lisp" "UTF-8-demo.html" "favicon.ico" "test-certificate.crt" "fz.jpg" "./" "test-key-no-password.key" "script-engine.lisp")
+
+ ("/home/hjs/workspace/cl-gui/junk/test/" (20288 16018) "src/" "www/" "jslib/" "../" "loader.lisp" "./" "test.asd")
+
+ ("/home/hjs/workspace/cl-gui/junk/old/twitter/" (20288 16018) "client.js" "nmf-result.sexp" "src/" "dummy.ps" "extjs" "jit" "server.js" "jquery" "dummy.js" "processing" "../" "index.html" "loader.lisp" "masason.twitter" "./" "twitter-nmf.asd" "client-src/")
+
+ ("/home/hjs/workspace/cl-gui/junk/old/twitter/client-src/" (20288 16018) "../" "vis.ps" "./" "main.ps")
+
+ ("/home/hjs/workspace/cl-gui/jslib/extjs/" (20288 15989) "bootstrap.js" "src/" "welcome/" "ext-all.js" "locale/" "license.txt" "release-notes.html" "../" "index.html" "resources/" "ext-all-debug.js" "ext-debug.js" "./" "docs/" "build/" "jsbuilder/" "pkgs/" "ext-all-dev.js" "ext-dev.js" "examples/" "builds/" "ext-all-debug-w-comments.js" "ext.js")
+
+ ("/home/hjs/programming/lisp/" (20288 16547) "precedence-climbing.lisp" "partial-evaluation.tex" "partial/" "string-case.lisp" "pkhuong/" "benchmark.lisp" "sbcl/" "atnadar.lisp" "null-stream.lisp" "loop.lisp" "safely.lisp" "old3/" "mylib/" "zebra.lisp" "old/" "scheme.lisp" "global-lexical-binding.lisp" "create-cl-lookup-file.lisp" "tailcall.lisp" "utils.lisp" "macroexpand-dammit.lisp" "partial-evaluation.fasl" "queue.lisp" "infix.lisp" "shuffle.lisp" "tracing.lisp" "tailcall.abcl" "partial-evaluation.lisp" "mvar.lisp" "pjb/" "old2/" "tailcall.fas" "../" "adler32.lisp" "selection-algorithms.lisp" "shunting-yard.lisp" "old4/" "tailcall.lx64fsl" "benchmark/" "ai/" "macroexpand-dammit.fasl" "sstable.lisp" "make-static-vector-sbcl.lisp" "raytracer/" "partial-evaluation.pdf" "./" "randomness.lisp" "QA-slides/" "pattern-matching.lisp" "double-array.lisp" "tailcall.64ufasl" "optimize-lookup-compile-time.lisp" "allegro/" "tailcall.sse2f" "junk/" "catch-continuation.lisp" "core-lisp/" "c-inspect.lisp" "simulation/" "tsv.lisp" "code-walker.lisp" "takeuchi.lisp" "jsnell/" "lol.lisp" "power.lisp" "code-walker-by-john-fremlin.lisp" "coroutine.lisp" "tmp.lisp" "wang.lisp" "fast-keyword.lisp" "paip/" "defsys.cl")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

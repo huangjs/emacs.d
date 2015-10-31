@@ -1,0 +1,18 @@
+$Id: TODO,v 1.11 2003/02/21 04:35:12 fredgc Exp $
+
+This is a list of things that would be nice to do.  And a few bugs that I've
+been too lazy to fix.
+
+-----------
+I wrote special versions of kill and yank that check the new text for cell
+markers.  If text is entered in some other way, the cell markers are not found,
+and might not be in pairs.  This should be fixed.  Or there should be a clever
+work around.
+
+-----------
+Document creation of functions in matlab/octave modes.  
+-----------
+Port to xemacs if possible.
+I think this means get rid of overlays.  (Use text properties instead?)
+-----------
+Add a syntax table that gets turns \b and ^H into a non-whitespace character.

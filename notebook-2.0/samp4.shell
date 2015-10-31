@@ -1,0 +1,105 @@
+$Id: samp4.shell,v 1.11 2003/02/21 04:33:46 fredgc Exp $  
+This is a sample Shell Notebook.
+
+If you see a bunch of ^H characters below, you should have emacs load the
+notebook-mode.el file, and then change modes using "M-x notebook-mode".
+
+Some useful keys:  
+        M-tab -- go to next cell.
+        C-return -- Send input part of cell to shell.
+        M-return -- send input, and then go to next cell.
+        C-c C-r -- send all cells in region to shell.
+        C-c C-b -- send all cells in buffer to shell.
+        C-c C-s -- start process.
+        C-c C-c -- kill process.
+        C-c C-n -- create a new cell.
+	C-c C-d -- Delete this cell.
+
+>>date  
+Wed Feb 19 21:34:12 PST 2003
+
+
+>> uptime
+
+  9:34pm  up 15 min,  0 users,  load average: 2.53, 2.26, 1.40
+
+>> sleep 3  
+>> uname -a
+Linux goose.ktb.net 2.4.18 #8 Sat Jan 18 21:58:24 PST 2003 i586 i586 i386 GNU/Linux
+
+This is some text.
+>>
+/bin/ls  
+auto			 notebook-1.1.tgz	  samp6.shell	  x-plain.shell
+ChangeLog		 notebook-1.2.tgz	  samp7.fs	  x-tex2.aux
+color.shell		 notebook-1.3.tgz	  samp8.aux	  x-tex2.dvi
+COPYING			 notebook.html		  samp8.dvi	  x-tex2.log
+CVS			 notebook.info		  samp8.log	  x-tex2.shell
+debug-notebook.el	 notebook-mode.el	  samp8.octave	  x-tex2.tex
+font-lock-debug.el	 notebook.texi		  samp8.tex	  x-tex.aux
+fontlock-notebook.el	 NOTEs			  samp.mu	  x-tex.dvi
+INSTALL			 octave-notebook-mode.el  TODO		  x-tex.log
+junk.m			 old-notebook-mode.el	  version.texi	  x-tex.shell
+Makefile		 README			  x-html.html	  x-tex.tex
+matlab-notebook-mode.el  samp4.sh		  x-html.log	  z.shell
+mmm-stuff.el		 samp4.shell		  x-html.shell
+mupad-notebook-mode.el	 samp5-b.matlab		  x-plain2.shell
+notebook-1.0.tgz	 samp5.matlab		  x-plain2.txt
+
+
+
+
+>>  echo "one"
+uptime
+echo "hello" 
+one
+ 11:19pm  up  2:09,  0 users,  load average: 0.49, 0.37, 0.28
+hello
+
+>>  
+>> dog="this is some text"
+# comment.
+echo this is dog: $dog
+
+
+this is dog: this is some text
+
+>> echo $dog  
+this is some text
+
+>>  dog  
+bash: dog: command not found
+
+
+>> ls  
+auto			 notebook-1.1.tgz	  samp6.shell	  x-plain.shell
+ChangeLog		 notebook-1.2.tgz	  samp7.fs	  x-tex2.aux
+color.shell		 notebook-1.3.tgz	  samp8.aux	  x-tex2.dvi
+COPYING			 notebook.html		  samp8.dvi	  x-tex2.log
+CVS			 notebook.info		  samp8.log	  x-tex2.shell
+debug-notebook.el	 notebook-mode.el	  samp8.octave	  x-tex2.tex
+font-lock-debug.el	 notebook.texi		  samp8.tex	  x-tex.aux
+fontlock-notebook.el	 NOTEs			  samp.mu	  x-tex.dvi
+INSTALL			 octave-notebook-mode.el  TODO		  x-tex.log
+junk.m			 old-notebook-mode.el	  version.texi	  x-tex.shell
+Makefile		 README			  x-html.html	  x-tex.tex
+matlab-notebook-mode.el  samp4.sh		  x-html.log	  z.shell
+mmm-stuff.el		 samp4.shell		  x-html.shell
+mupad-notebook-mode.el	 samp5-b.matlab		  x-plain2.shell
+notebook-1.0.tgz	 samp5.matlab		  x-plain2.txt
+
+>>echo $PS2  
+>
+
+>>   
+>>date  
+Tue Feb 18 23:19:37 PST 2003
+ >>    >>   >> 
+>>  
+>>   another >>  
+>> echo $TERM 
+unknown
+
+
+
+

@@ -1,0 +1,5 @@
+ln -s acl2/acl2.el .
+cd 
+ln -s .emacs.d/.emacs .
+ln -s .emacs.d/.todo-do .
+ln -s .emacs.d/.todo-top .

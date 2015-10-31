@@ -1,0 +1,81 @@
+pristine:0000000283-1ff652b6245984e50a56880cb514b1519b0e89f1e7db806a95cbb255055bbc8f
+[Initial import.
+leque@katch.ne.jp**20070515195754] 
+hash: 0000006805-a92df5a19145a752599639a14a00ee5923a4e9fefd8843416f2bd0e0bc86bb0c
+[added gauche-fuzzy-complete-symbol.
+leque@katch.ne.jp**20070607220150] 
+hash: 0000002629-31e24ab4bf08d766875449ad3c687c79c8a1f6f7cbbe66daa98593020de159aa
+[do ordinary completion.
+leque@katch.ne.jp**20070718040558] 
+hash: 0000003504-7ff4c7c618c280bd52a4f43293bbede6eb854f65cc41842de2413addb97b8801
+[added some rules.
+leque@katch.ne.jp**20070930034843] 
+hash: 0000001107-f5ea6f3b7a0ccb5d5c726067d3a5a7b6e8c0249164fbf6a10e72eef81a947576
+[more fuzzy, sophisticated completion.
+OOHASHI, Daichi <leque@katch.ne.jp>**20071024113806] 
+hash: 0000001829-c36dd0c43aba32b6781165a1d4a8b9631ef8634cdec1b3c00f7fd7b7ec16eff9
+[add (require 'cl)
+OOHASHI, Daichi <leque@katch.ne.jp>**20071024233933] 
+hash: 0000001802-9fee455a26a8ac0c8554908ecb9fcea3096d5ec2e6ff90109d5a7fafbd09a519
+[gauche-toggle-debug-print
+OOHASHI, Daichi <leque@katch.ne.jp>**20071106081629] 
+hash: 0000001027-5d3a21ea9ecd1b725b6928071b85d762c15731daf595c5831ba33a2a3659403e
+[fixed a bug of completion.
+OOHASHI, Daichi <leque@katch.ne.jp>**20071227141335] 
+hash: 0000000220-3239e4b3ef73ac32edfc166702b82a5589b2440528b67f959314d04bbe67d3e6
+[gauche-macroexpand{,-1}
+OOHASHI Daichi <leque@katch.ne.jp>**20080310085429] 
+hash: 0000000893-1810d7903df6ad681983a286fd991075661dbcb5d6dccf66ce548aedf085483a
+[gauche-toggle-datum-comment
+OOHASHI Daichi <leque@katch.ne.jp>**20080310085502] 
+hash: 0000000724-90e7bf600feacb9482fc8ebec534ed6844142443383c6715bd1ce20f2cae7738
+[(newline) before macroexpand.
+OOHASHI Daichi <leque@katch.ne.jp>**20080310232237] 
+hash: 0000000361-859ab2d6258a0e1ede60a54ebd94a7c3b609450f7a9f15ced802ec3317e86ae3
+[adds +, >, and & to separators.
+OOHASHI, Daichi <leque@katch.ne.jp>**20080313091318] 
+hash: 0000000519-0446f9c15190a223b571a5c479aad1ff2189e758feed5c7cd15ef44865fb8530
+[send newline to scheme-proc as the end of input.
+OOHASHI, Daichi <leque@katch.ne.jp>**20080313093238] 
+hash: 0000000264-85650c516be86968da8caea24c06d226c17fd9ed0f137a66a7402930b2e6c0af
+[fuzzy-complete-symbol: quotes regexp in input
+OOHASHI, Daichi <leque@katch.ne.jp>**20080515234055] 
+hash: 0000000524-e17f52300fb5af71f2ee405d4ca192f3d8d065e0f93b111b5de468a500036d79
+[syntax higliting/indentation for Gauche 0.8.14.
+OOHASHI, Daichi <leque@katch.ne.jp>**20081012064650] 
+hash: 0000000265-022133c98eac5bd16fccb9e92d7bb2c1cdef55ab7071aa1a06e17b5fc8d88fdf
+[R6RS #!<identifier> comment.
+OOHASHI, Daichi <leque@katch.ne.jp>**20081012095316] 
+hash: 0000000161-14931ecee5f9612c14d99b231e5d96b296b1e81ad03287ab3d25465f0e828318
+[profiler & disassembler stuff.
+OOHASHI, Daichi <leque@katch.ne.jp>**20081021091908] 
+hash: 0000001996-87b028be2382c9fe3113ed1bb80c30a992f636a02b0b7323e5c739f6a98b3f91
+[defgroup gauche-mode. uniform symbol prefixes to `gauche-mode'.
+OOHASHI, Daichi <leque@katch.ne.jp>**20081028210904] 
+hash: 0000005418-d80a9543a66f4934ca87257df45bd07949bcb47b934d769f791ea26bbc35ba87
+[fix misunderstanding.
+OOHASHI, Daichi <leque@katch.ne.jp>**20081029092939] 
+hash: 0000000358-7e361f69b646f69af06f380ac8f8390b138ef0c295381668679d384304ee4125
+[R6RS syntaxes
+OOHASHI, Daichi <leque@katch.ne.jp>**20081214090252] 
+hash: 0000000862-c2e2dd37e4dddbbf5b49c3416f49ba5406176332b05f92c1256db3ca45f58145
+[gauche-mode-export-current-symbol
+OOHASHI, Daichi <leque@katch.ne.jp>**20081214090445] 
+hash: 0000000889-9063e9f081d93cbfcb12cf5228f021e0c400c6ccefb9af4f215d136ecb59ce37
+[require 'cmuscheme.
+OOHASHI, Daichi <leque@katch.ne.jp>**20081217073657] 
+hash: 0000000171-e63a25ca1a3c60bb4323d8b9c1487954210a287244766f9ef057f421a4bce3a8
+[changed binding for gauche-mode-export-current-symbol to C-c x from C-c C-e, which is bound to scheme-send-definition in cmuscheme.el.
+OOHASHI Daichi <leque@katch.ne.jp>**20090117211115] 
+hash: 0000000427-b16cd83c4ceab238163bf1e53db544db36e97dc34d0dbb2669b6fb6f5af755da
+[follow the major mode keybindings convention.
+OOHASHI Daichi <leque@katch.ne.jp>**20090126155321] 
+hash: 0000000632-9448e4a3fdf92a960e250deb91c075fbf780205e0785f04d3888714a3e2351b3
+[R6RS lexical syntax (inline hex escape and bytevector).
+OOHASHI Daichi <leque@katch.ne.jp>**20090505022745] 
+hash: 0000000636-8174b90065864d854b31bdde4d7a81b5dbe9496ba360170648e761c71020b8d3
+[gauche-fuzzy.el, qs.el: import.
+OOHASHI Daichi <leque@katch.ne.jp>**20090925153421
+ Ignore-this: 7d7b61916515255e8277b715c1d1aaf3
+] 
+hash: 0000007577-848febd7a88692f139498fed8dd64b12e50bd08f6923e95c1c8a27938316645a

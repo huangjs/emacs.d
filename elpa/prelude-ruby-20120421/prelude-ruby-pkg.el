@@ -1,0 +1,1 @@
+(define-package "prelude-ruby" "20120421" "Emacs Prelude: A nice setup for Ruby (and Rails) devs. [source: github]" (quote ((prelude-programming "1.0.0") (inf-ruby "2.2.3") (yari "0.5") (ruby-end "0.0.1") (ruby-block "0.0.11"))))

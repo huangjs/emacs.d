@@ -1,0 +1,25 @@
+D/cogre////
+D/common////
+D/contrib////
+D/ede////
+D/eieio////
+D/quickpeek////
+D/semantic////
+D/speedbar////
+D/srecode////
+D/www////
+D/testprojects////
+D/tests////
+/.cvsignore/1.1/Fri Sep 23 18:34:57 2011//
+/.ede-ignore/1.1/Sun Jul 25 14:17:56 2010//
+/INSTALL/1.23/Fri Sep 23 18:34:59 2011//
+/Makefile.wwwinfo/1.3/Fri Sep 23 18:34:59 2011//
+/PRERELEASE_CHECKLIST/1.26/Fri Sep 23 18:34:59 2011//
+/USING_CEDET_FROM_CVS/1.2/Fri Sep 23 18:34:59 2011//
+/cedet-build.el/1.12/Fri Sep 23 18:34:59 2011//
+/cedet-ediff.el/1.4/Fri Sep 23 18:34:59 2011//
+/cedet-update-changelog.el/1.16/Sun Jan 29 16:38:37 2012//
+/cedet-update-version.el/1.4/Fri Sep 23 18:34:59 2011//
+/gettodos.sh/1.1/Fri Sep 23 18:35:04 2011//
+/testdist.sh/1.1/Fri Sep 23 18:35:06 2011//
+/Makefile/1.27/Sun Jan 29 16:50:46 2012//

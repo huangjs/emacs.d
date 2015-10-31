@@ -1,0 +1,5 @@
+#!/bin/bash
+pushd `dirname $0`
+~/.emacs.d/bin/make-emacs
+popd
+exec fast-emacs $@

@@ -1,0 +1,28 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'nodejs', '/usr/bin/npm', 'run', 'swank' ]
+2 info using npm@1.1.34
+3 info using node@v0.8.1
+4 verbose config file /home/hjs/.npmrc
+5 verbose config file /usr/etc/npmrc
+6 verbose config file /usr/lib/nodejs/npm/npmrc
+7 verbose read json /home/hjs/.emacs.d/package.json
+8 error Error: ENOENT, open '/home/hjs/.emacs.d/package.json'
+8 error  { [Error: ENOENT, open '/home/hjs/.emacs.d/package.json']
+8 error   errno: 34,
+8 error   code: 'ENOENT',
+8 error   path: '/home/hjs/.emacs.d/package.json' }
+9 error You may report this log at:
+9 error     <http://github.com/isaacs/npm/issues>
+9 error or email it to:
+9 error     <npm-@googlegroups.com>
+10 error System Linux 3.2.0-26-generic
+11 error command "nodejs" "/usr/bin/npm" "run" "swank"
+12 error cwd /home/hjs/.emacs.d
+13 error node -v v0.8.1
+14 error npm -v 1.1.34
+15 error path /home/hjs/.emacs.d/package.json
+16 error code ENOENT
+17 error message ENOENT, open '/home/hjs/.emacs.d/package.json'
+18 error errno 34
+19 error 34 errno
+20 verbose exit [ 34, true ]
